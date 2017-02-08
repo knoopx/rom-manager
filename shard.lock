@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  admiral:
+    github: jwaldrip/admiral.cr
+    commit: f2a8079bcd9da1b217135d55c0e26cf87a717340
+
+  progress:
+    github: askn/progress
+    commit: df7f323a334e025be8798b0c99cd7e0cebb473ed
+
